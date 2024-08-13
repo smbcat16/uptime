@@ -1,36 +1,60 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: smbcat16 # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: moodle
+    url: https://adf-elearning.org
+  - name: code
+    url: https://code.adf-elearning.org
+  - name: npm
+    url: https://npm.adf-elearning.org
+  - name: portainer
+    url: https://portainer.adf-elearning.org
+  - name: overleaf
+    url: https://overleaf.adf-elearning.org
+  - name: pdf
+    url: https://pdf.adf-elearning.org
+  - name: Google DNS 8.8.8.8
     check: "tcp-ping"
-    ipv6: true
+    url: 8.8.8.8
+    port: 53
+    icon: https://icons.veryicon.com/png/o/application/app-general-icon-01/dns-1.png
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: up.adf.cc.ua
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/51sec/up/master/assets/up-icon.png
+  name: UP
+  introTitle: "**UPTIME** monitors ADF websites and servers!"
+  introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/smbcat16/uptime/).
+  favicon: https://raw.githubusercontent.com/smbcat16/uptime/master/assets/upptime-icon.svg
+  theme: ocean
+  # Available themes are light, dark, night or ocean.
   navbar:
-    - title: Status
+    - title: Status Page
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: ADF
+      href: https://adf-elearning.org
+    - title: Overleaf
+      href: https://overleaf.adf-elearning.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is hosted on GitHub [51sec/up]($REPO) project since @2024-08-13, & created by [ADF].
+  
+workflowSchedule:
+  graphs: "0 */6 * * *"
+  responseTime: "10 */6 * * *"
+  staticSite: "20 */6 * * *"
+  summary: "30 */6 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "40 */6 * * *"
+  uptime: "*/5 * * * *"
