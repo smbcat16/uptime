@@ -7,7 +7,7 @@ sites:
     url: https://adf-elearning.org
   - name: code
     url: https://code.adf-elearning.org
-    icon: https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png
+    icon: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
   - name: npm
     url: https://npm.adf-elearning.org
   - name: portainer
@@ -28,12 +28,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.adf.cc.ua
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/51sec/up/master/assets/up-icon.png
-  name: UP
+  logoUrl: https://uptime.com/images/brand/svgs/LightMode/icon.svg
+  name: ADF-UP
   introTitle: "**UPTIME** monitors ADF websites and servers!"
   introMessage: The monitoring **real-time** data from our [GitHub repository](https://github.com/smbcat16/uptime/).
   favicon: https://raw.githubusercontent.com/smbcat16/uptime/master/assets/upptime-icon.svg
-  theme: ocean
+  theme: night
   # Available themes are light, dark, night or ocean.
   navbar:
     - title: Status Page
@@ -49,13 +49,13 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is hosted on GitHub [51sec/up]($REPO) project since @2024-08-13, & created by [ADF].
+  footer: This page is hosted on GitHub [smbcat16/uptime]($REPO) project since @2024-08-13, & created by [ADF].
   
 workflowSchedule:
-  graphs: "0 */6 * * *"
-  responseTime: "10 */6 * * *"
-  staticSite: "20 */6 * * *"
-  summary: "30 */6 * * *"
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "40 */6 * * *"
+  updates: "0 3 * * *"
   uptime: "*/5 * * * *"
