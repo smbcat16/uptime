@@ -49,7 +49,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is hosted on GitHub [smbcat16/uptime]($REPO) project since @2024-08-13, & created by [ADF].
+  footer: This page is hosted on GitHub [smbcat16/uptime]($REPO) project since @2024-08-13.
   
 workflowSchedule:
   graphs: "0 0 * * *"
