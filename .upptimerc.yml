@@ -7,6 +7,7 @@ sites:
     url: https://adf-elearning.org
   - name: code
     url: https://code.adf-elearning.org
+    icon: https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png
   - name: npm
     url: https://npm.adf-elearning.org
   - name: portainer
