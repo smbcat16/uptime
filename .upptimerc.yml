@@ -5,17 +5,15 @@ repo: uptime # The name of this repository
 sites:
   - name: moodle
     url: https://adf-elearning.org
+  - name: overleaf
+    url: https://overleaf.adf-elearning.org
   - name: code
     url: https://code.adf-elearning.org
     icon: https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg
-  - name: npm
-    url: https://npm.adf-elearning.org
-  - name: portainer
-    url: https://portainer.adf-elearning.org
-  - name: overleaf
-    url: https://overleaf.adf-elearning.org
   - name: pdf
     url: https://pdf.adf-elearning.org
+  - name: gemini
+    url: https://gemini.adf-elearning.org
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
     url: 8.8.8.8
