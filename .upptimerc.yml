@@ -35,15 +35,15 @@ status-website:
   favicon: https://raw.githubusercontent.com/smbcat16/uptime/master/assets/upptime-icon.svg
   theme: night
   # Available themes are light, dark, night or ocean.
-  navbar:
-    - title: Status Page
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: ADF
-      href: https://adf-elearning.org
-    - title: Overleaf
-      href: https://overleaf.adf-elearning.org
+#  navbar:
+#    - title: Status Page
+#      href: /
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
+#    - title: ADF
+#      href: https://adf-elearning.org
+#    - title: Overleaf
+#      href: https://overleaf.adf-elearning.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
