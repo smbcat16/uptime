@@ -76,18 +76,20 @@
     "url": "https://gemini.adf-elearning.org",
     "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.svg",
     "slug": "gemini",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 0,
-    "timeWeek": 411,
-    "timeMonth": 411,
-    "timeYear": 411,
-    "dailyMinutesDown": {}
+    "time": 342,
+    "timeDay": 132,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2024-08-15": 0
+    }
   },
   {
     "name": "Google DNS 8.8.8.8",
