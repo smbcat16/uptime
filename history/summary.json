@@ -58,18 +58,20 @@
     "url": "https://pdf.adf-elearning.org",
     "icon": "https://icons.duckduckgo.com/ip3/pdf.adf-elearning.org.ico",
     "slug": "pdf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 812,
-    "timeWeek": 776,
-    "timeMonth": 776,
-    "timeYear": 776,
-    "dailyMinutesDown": {}
+    "time": 751,
+    "timeDay": 656,
+    "timeWeek": 751,
+    "timeMonth": 751,
+    "timeYear": 751,
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "gemini",
@@ -77,18 +79,18 @@
     "icon": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.svg",
     "slug": "gemini",
     "status": "down",
-    "uptime": "92.68%",
-    "uptimeDay": "83.57%",
-    "uptimeWeek": "92.68%",
-    "uptimeMonth": "92.68%",
-    "uptimeYear": "92.68%",
+    "uptime": "76.27%",
+    "uptimeDay": "35.29%",
+    "uptimeWeek": "76.27%",
+    "uptimeMonth": "76.27%",
+    "uptimeYear": "76.27%",
     "time": 337,
     "timeDay": 225,
     "timeWeek": 337,
     "timeMonth": 337,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2024-08-16": 79,
+      "2024-08-16": 774,
       "2024-08-15": 158
     }
   },
