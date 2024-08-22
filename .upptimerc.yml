@@ -13,7 +13,7 @@ sites:
   - name: pdf
     url: https://pdf.adf-elearning.org
   - name: gemini
-    url: https://gemini.adf-elearning.org
+    url: https://gemini.adf.cc.ua
     icon: https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-gemini-icon.svg
   - name: Google DNS 8.8.8.8
     check: "tcp-ping"
