@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 555,
-    "timeDay": 681,
-    "timeWeek": 610,
-    "timeMonth": 599,
-    "timeYear": 535,
+    "timeDay": 591,
+    "timeWeek": 619,
+    "timeMonth": 594,
+    "timeYear": 536,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2026-03-11": 21
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/overleaf.adf-elearning.org.ico",
     "slug": "overleaf",
     "status": "down",
-    "uptime": "13.79%",
+    "uptime": "13.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 384,
-    "timeDay": 62,
-    "timeWeek": 97,
-    "timeMonth": 147,
+    "timeDay": 104,
+    "timeWeek": 105,
+    "timeMonth": 101,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2026-10-25": 232,
+      "2026-10-26": 236,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -400,8 +401,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
     "slug": "code",
     "status": "down",
-    "uptime": "44.96%",
+    "uptime": "44.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 489,
-    "timeDay": 70,
-    "timeWeek": 91,
-    "timeMonth": 224,
-    "timeYear": 370,
+    "time": 487,
+    "timeDay": 84,
+    "timeWeek": 94,
+    "timeMonth": 171,
+    "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-10-25": 232,
+      "2026-10-26": 236,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -784,8 +785,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
@@ -794,18 +794,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdf.adf-elearning.org.ico",
     "slug": "pdf",
     "status": "down",
-    "uptime": "27.38%",
+    "uptime": "27.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 403,
-    "timeDay": 51,
-    "timeWeek": 106,
-    "timeMonth": 179,
-    "timeYear": 359,
+    "time": 402,
+    "timeDay": 122,
+    "timeWeek": 115,
+    "timeMonth": 112,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2026-10-25": 232,
+      "2026-10-26": 236,
+      "2026-10-25": 1440,
       "2026-10-24": 1440,
       "2026-10-23": 1440,
       "2026-10-22": 1440,
@@ -1168,8 +1169,7 @@
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
-      "2025-10-27": 1440,
-      "2025-10-26": 1440
+      "2025-10-27": 1440
     }
   },
   {
@@ -1184,10 +1184,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1095,
-    "timeDay": 1616,
-    "timeWeek": 1219,
+    "timeDay": 1036,
+    "timeWeek": 1230,
     "timeMonth": 1160,
-    "timeYear": 1105,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-11-09": 17,
       "2025-11-18": 137,
@@ -1215,10 +1215,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 5,
-    "timeDay": 2,
-    "timeWeek": 13,
+    "timeDay": 19,
+    "timeWeek": 15,
     "timeMonth": 8,
-    "timeYear": 5,
+    "timeYear": 6,
     "dailyMinutesDown": {}
   }
 ]
